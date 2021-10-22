@@ -2,6 +2,7 @@
 A Github Action to publish your Python package to Anaconda Cloud.
 
 ### Example workflow
+
 ```yaml
 name: Publish
 

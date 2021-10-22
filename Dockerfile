@@ -1,4 +1,4 @@
-FROM continuumio/miniconda3:4.7.10
+FROM continuumio/miniconda3:4.6.14
 
 RUN conda install -y anaconda-client conda-build conda-verify numpy
 

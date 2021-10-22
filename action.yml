@@ -1,6 +1,6 @@
-name: 'Publish Conda package Action'
+name: 'Publish Package to Conda Action'
 description: 'Publish conda package'
-author: 'amauryval'
+author: 'riccorl'
 branding:
   icon: 'package'  
   color: 'purple'
